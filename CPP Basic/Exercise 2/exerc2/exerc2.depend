@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1372461968 source:c:\users\léo\documents\usp\poo\lista 4\exercicio 2\exerc2\main.cpp
+	"Radio.h"
+	"Relogio.h"
+	"RadioRelogio.h"
+	<iostream>
+
+1372462880 c:\users\léo\documents\usp\poo\lista 4\exercicio 2\exerc2\radio.h
+	<iostream>
+
+1371878809 source:c:\users\léo\documents\usp\poo\lista 4\exercicio 2\exerc2\radio.cpp
+	"Radio.h"
+	<string>
+	<sstream>
+
+1372463140 c:\users\léo\documents\usp\poo\lista 4\exercicio 2\exerc2\relogio.h
+	<iostream>
+
+1371918333 source:c:\users\léo\documents\usp\poo\lista 4\exercicio 2\exerc2\relogio.cpp
+	"Relogio.h"
+	<string>
+	<sstream>
+
+1372462953 c:\users\léo\documents\usp\poo\lista 4\exercicio 2\exerc2\radiorelogio.h
+	"Relogio.h"
+	"Radio.h"
+	<string>
+	<sstream>
+
